@@ -6,53 +6,59 @@
 > [포트폴리오](https://github.com/YulminSung/Parkinson_1/tree/059eb9e34efac9167f72358b9c93ec2420ba6f77/pdf)<br/><br/>
 ![screensh](img/홈페이지.png)
 
+---
+
 ## 목적
 > 파킨슨병 환자의 **임상 데이터**를 사용하여 파킨슨병 환자의 진행을 측정하는 **MDS-UPDRS (통합 파킨슨병 평가척도) 예측**<br/><br/>
 > streamlit을 활용한 **대시보드 웹 개발**
+
+---
 
 ## 데이터
 > **Kaggle Competition - AMP®-Parkinson's Disease Progression Prediction**에서 제공한 데이터를 이용하였습니다.
 
 [Kaggle_대회_정보](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction)
 
+---
+
 ## E-R Diagram (Entity-Relationship Diagram)
 ![screensh](img/erd.png)
 
+---
+
 ## 팀 구성
-> 사용언어 : Python : 3.9.13v<br/><br/>
-> 작업툴 : Pycharm, Google Colab, Streamlit<br/><br/>
+> 개발 기간 : 2023-04-24 ~ 2023-05-17<br/><br/>
 > 인원 : 3명<br/><br/>
 > 주요 업무 : 머신러닝을 활용한 파킨슨병 환자 진행 예측 및 Streamlit 라이브러리를 이용한 웹개발 구현 코드 작성<br/><br/>
-> 개발 기간 : 2023-04-24 ~ 2023-05-17<br/><br/>
 ***
+
 ---
 
 ## Stacks 🐈
 
 ### Environment
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/Git-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)             
 
-### Config
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)        
-
 ### Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=Strapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=MUI&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+
+### Library
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=ScikitLearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
 
 ### Communication
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-![GoogleMeet](https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=Google%20Meet&logoColor=white)
 
 ---
-## 주요 기능
+
+## 대시보드 화면 구성 📺
 - ***홈페이지(Home)***
     - 대회 목표 및 개요<br/><br/>
 
@@ -83,14 +89,10 @@
     - 훈련 / 검증 데이터 분리 및 확인
     - 모델 성능평가 결과 비교<br/><br/>
 
+---
+
 ## 설치 방법
 ### Windows
-+ **버전 확인**
-    - python : 3.9.13
-    - pycharm : 17.0.6
-    - streamlit : 1.22.0<br/><br/>
-    - 라이브러리 :  pandas (2.0.1), numpy (1.24.3), plotly (5.14.1), plotly-express(0.4.1), matplotlib (3.7.1), streamlit-option-menu (0.3.2), seaborn (0.12.2), scikit-learn(1.2.2), pingouin(0.5.3), statmodels(0.13.5), utils(1.0.1), catboost(1.16.0) 
-
 - **프로젝트 파일을 다운로드 받습니다.** 
 
 ```bash
