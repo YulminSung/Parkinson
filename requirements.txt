@@ -11,3 +11,5 @@ streamlit
 streamlit-option-menu
 utils
 xgboost
+catboost
+lightgbm
