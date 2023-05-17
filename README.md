@@ -11,7 +11,7 @@
 - streamlit을 활용한 **대시보드 웹 개발**
 
 ## 데이터
-'Kaggle - AMP®-Parkinson's Disease Progression Prediction' 데이터를 이용하였습니다.
+**'Kaggle Competition - AMP®-Parkinson's Disease Progression Prediction'**에서 제공한 데이터를 이용하였습니다.
 
 [Kaggle_대회_정보](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction)
 
