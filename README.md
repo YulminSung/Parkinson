@@ -1,4 +1,4 @@
-# Parkinson's Disease Progression Prediction Project (2023.04.24 ~ 2023.05.17)
+# Parkinson's Disease Progression Prediction Project<br/>(2023.04.24 ~ 2023.05.17)
 
 [대시보드 링크](https://yulminsung-parkinson-1-app-7xcgv0.streamlit.app/) <br/><br/>
 [발표 영상] <br/><br/>
@@ -7,7 +7,8 @@
 ![screensh](img/홈페이지.png)
 
 ## 목적
-파킨슨병 환자의 **임상 데이터**를 사용하여 파킨슨병 환자의 진행을 측정하는 **MDS-UPDRS (통합 파킨슨병 평가척도) 예측** 및 streamlit을 활용한 **대시보드 웹 개발**
+- 파킨슨병 환자의 **임상 데이터**를 사용하여 파킨슨병 환자의 진행을 측정하는 **MDS-UPDRS (통합 파킨슨병 평가척도) 예측**
+- streamlit을 활용한 **대시보드 웹 개발**
 
 ## 데이터
 'Kaggle - AMP®-Parkinson's Disease Progression Prediction' 데이터를 이용하였습니다.
