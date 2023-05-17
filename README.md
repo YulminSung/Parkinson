@@ -7,14 +7,14 @@
 ![screensh](img/홈페이지.png)
 
 ## 목적
-계약일 기준 2022년 1월 1일부터 현재까지의 **서울시 전/월세 실거래 데이터 기반 검색** 및 **전세 시세 예측** 웹 개발
+파킨슨병 환자의 **임상 데이터**를 사용하여 파킨슨병 환자의 진행을 측정하는 **MDS-UPDRS (통합 파킨슨병 평가척도) 예측** 및 streamlit을 활용한 **대시보드 웹 개발**
 
 ## 데이터
-서울 열린데이터 광장 - 서울시 부동산 전월세가 정보 공공 데이터를 이용하였습니다.
+Kaggle - AMP®-Parkinson's Disease Progression Prediction 데이터를 이용하였습니다.
 
-[서울시 부동산 전월세가 정보](https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do)
+[Kaggle_대회_정보](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction)
 
-## ERD
+## E-R Diagram (Entity-Relationship Diagram)
 ![screensh](img/erd.png)
 
 ## 팀 구성
