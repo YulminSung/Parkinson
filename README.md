@@ -59,30 +59,30 @@
 
 ## 설치 방법
 ### Windows
-+ 버전 확인
++ **버전 확인**
     - python : 3.9.13
     - pycharm : 17.0.6
     - streamlit : 1.22.0<br/>
     - 라이브러리 :  pandas (2.0.1), numpy (1.24.3), plotly (5.14.1), plotly-express(0.4.1), matplotlib (3.7.1), streamlit-option-menu (0.3.2), seaborn (0.12.2), scikit-learn(1.2.2), pingouin(0.5.3), statmodels(0.13.5), utils(1.0.1), catboost(1.16.0) 
 
-- 프로젝트 파일을 다운로드 받습니다. 
+- **프로젝트 파일을 다운로드 받습니다.** 
 
 ```bash
 git clone https://github.com/YulminSung/Parkinson_1.git
 ```
 
-- 프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)
+- **프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)**
 ```bash
 virtualenv venv
 source venv/Scripts/activate
 ```
 
-- 라이브러리를 설치합니다. 
+- **라이브러리를 설치합니다.** 
 ```bash
 pip install -r requirements.txt
 ```
 
-- streamlit 명령어를 실행합니다. 
+- **streamlit 명령어를 실행합니다.** 
 ```bash
 streamlit run app.py
 ```
