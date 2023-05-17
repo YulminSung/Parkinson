@@ -8,25 +8,25 @@
 
 ---
 
-## 목적
+## 목적 🔍
 > 파킨슨병 환자의 **임상 데이터**를 사용하여 파킨슨병 환자의 진행을 측정하는 **MDS-UPDRS (통합 파킨슨병 평가척도) 예측**<br/><br/>
 > streamlit을 활용한 **대시보드 웹 개발**
 
 ---
 
-## 데이터
+## 데이터 📂
 > **Kaggle Competition - AMP®-Parkinson's Disease Progression Prediction**에서 제공한 데이터를 이용하였습니다.
 
 [Kaggle_대회_정보](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction)
 
 ---
 
-## E-R Diagram (Entity-Relationship Diagram)
+## E-R Diagram (Entity-Relationship Diagram) 📖
 ![screensh](img/erd.png)
 
 ---
 
-## 팀 구성
+## 팀 구성 👨🏻‍🤝‍👨🏻
 > 개발 기간 : 2023-04-24 ~ 2023-05-17<br/><br/>
 > 인원 : 3명<br/><br/>
 > 주요 업무 : 머신러닝을 활용한 파킨슨병 환자 진행 예측 및 Streamlit 라이브러리를 이용한 웹개발 구현 코드 작성<br/><br/>
@@ -87,6 +87,12 @@
     - CatBoost 모델 및 파라미터 설명
     - 훈련 / 검증 데이터 분리 및 확인
     - 모델 성능평가 결과 비교<br/><br/>
+
+---
+
+## 대회 결과 🏆
+- **최종 점수 = 56.0**
+- **1,788팀 중 450등** (상위 약 25 %)
 
 ---
 
