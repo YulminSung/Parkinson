@@ -1,13 +1,11 @@
 # Parkinson's Disease Progression Prediction Project<br/>(2023.04.24 ~ 2023.05.17)
 <br/>
 
-## [1. Streamlit Service](https://yulminsung-forestfire-app-b2m0vk.streamlit.app/ "Streamlit Link")<br/>
+## [1. Streamlit Service](https://yulminsung-project-parkinson-app-ysi54m.streamlit.app/ "Streamlit Link")<br/>
 
-## [2. Personal Code](https://github.com/YulminSung/Project_Forestfire/tree/main/code ".Code Link")<br/>
+## [2. Personal Code](https://github.com/YulminSung/Project_Parkinson/tree/main/code ".Code Link")<br/>
 
-## [3. Machine Learning](https://github.com/YulminSung/Project_Forestfire/blob/main/code/DL_EfficientNet.ipynb/ ".DL Link")<br/>
-
-## [4. PDF](https://github.com/YulminSung/Project_Forestfire/blob/main/file/ppt/ForestFire.pdf "PDF Link")<br/>
+## [3. PDF](https://github.com/YulminSung/Project_Parkinson/blob/main/pdf/AMP%C2%AE-Parkinson's%20Disease%20Progression%20Prediction.pdf "PDF Link")<br/>
 
 ---
 
@@ -23,7 +21,7 @@
 <br/>
 
 ## ✔ ERD
-![screensh](img/erd.png)
+![image](https://github.com/YulminSung/Project_Parkinson/blob/main/img/erd.png)
 <br/>
 
 ## ✔ Flow Chart
