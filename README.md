@@ -91,7 +91,7 @@
 - **프로젝트 파일을 다운로드 받습니다.** 
 
 ```bash
-git clone https://github.com/YulminSung/Parkinson_1.git
+git clone https://github.com/YulminSung/Project_Parkinson.git
 ```
 
 - **프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)**
