@@ -41,7 +41,7 @@
 - **HOME**
   - 대회 목표 및 개요
 
-<img src="/img/home.png" width="700" height="800">
+<img src="/img/home.png" width="450" height="600">
 
 - **Description**
   - 파킨슨병 / MDS-UPDRS 점수 설명
