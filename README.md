@@ -41,27 +41,27 @@
 - **HOME**
   - 대회 목표 및 개요
 
-<img src="/file/img/home_img.png" width="700" height="800">
+<img src="/img/home.png" width="700" height="800">
 
 - **Description**
   - 파킨슨병 / MDS-UPDRS 점수 설명
   - 평가지표 설명
   - 대회에 사용되는 용어 설명
 
-<img src="/file/img/home_img.png" width="700" height="800">
+<img src="/img/description.png" width="700" height="800">
 
 - **Data**
   - 데이터셋 변수 설명
   - Train / Test 데이터셋 확인
 
-<img src="/file/img/home_img.png" width="700" height="800">
+<img src="/img/data.png" width="700" height="800">
 
 - **EDA**
   - 방문 월 - Updrs 1~4 점수 평균 산점도/꺽은선그래프 시각화
   - 결측치 확인을 위한 파이그래프 시각화
   - 약물복용여부에 따른 updrs 점수 박스플롯 시각화
 
-<img src="/file/img/home_img.png" width="700" height="800">
+<img src="/img/eda.png" width="700" height="800">
 
 - ***통계분석(STAT)***
     - 기초통계 분석 - 두 평균의 비교 (t-test) 설명
@@ -71,14 +71,14 @@
     - 전체 데이터의 컬럼 간 상관관계 분석
     - 평가지표 간 점수 비교 (updrs 4 기준)
 
-<img src="/file/img/home_img.png" width="700" height="800">
+<img src="/img/stat.png" width="700" height="800">
 
 - ***머신러닝(ML)***
     - CatBoost 모델 및 파라미터 설명
     - 훈련 / 검증 데이터 분리 및 확인
     - 모델 성능평가 결과 비교
 
-<img src="/file/img/home_img.png" width="700" height="800">
+<img src="/img/ml.png" width="700" height="800">
 
 ---
 
