@@ -1,10 +1,13 @@
 # Parkinson's Disease Progression Prediction Project<br/>(2023.04.24 ~ 2023.05.17)
+<br/>
 
-> [대시보드 링크](https://yulminsung-parkinson-1-app-7xcgv0.streamlit.app/) <br/><br/>
-> [발표 영상] <br/><br/>
-> [데모 시연] <br/><br/>
-> [포트폴리오](https://github.com/YulminSung/Parkinson_1/tree/059eb9e34efac9167f72358b9c93ec2420ba6f77/pdf)<br/><br/>
-![screensh](img/홈페이지.png)
+## [1. Streamlit Service](https://yulminsung-forestfire-app-b2m0vk.streamlit.app/ "Streamlit Link")<br/>
+
+## [2. Personal Code](https://github.com/YulminSung/Project_Forestfire/tree/main/code ".Code Link")<br/>
+
+## [3. Deep Learning](https://github.com/YulminSung/Project_Forestfire/blob/main/code/DL_EfficientNet.ipynb/ ".DL Link")<br/>
+
+## [4. PDF](https://github.com/YulminSung/Project_Forestfire/blob/main/file/ppt/ForestFire.pdf "PDF Link")<br/>
 
 ---
 
