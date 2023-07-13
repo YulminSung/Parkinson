@@ -5,7 +5,7 @@
 
 ## [2. Personal Code](https://github.com/YulminSung/Project_Forestfire/tree/main/code ".Code Link")<br/>
 
-## [3. Deep Learning](https://github.com/YulminSung/Project_Forestfire/blob/main/code/DL_EfficientNet.ipynb/ ".DL Link")<br/>
+## [3. Machine Learning](https://github.com/YulminSung/Project_Forestfire/blob/main/code/DL_EfficientNet.ipynb/ ".DL Link")<br/>
 
 ## [4. PDF](https://github.com/YulminSung/Project_Forestfire/blob/main/file/ppt/ForestFire.pdf "PDF Link")<br/>
 
