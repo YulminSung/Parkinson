@@ -30,76 +30,55 @@
 ![image](https://github.com/YulminSung/Project_Parkinson/blob/main/img/flowchart.png)
 <br/>
 
-## 팀 구성 👨🏻‍🤝‍👨🏻
-> 개발 기간 : 2023-04-24 ~ 2023-05-17<br/><br/>
-> 인원 : 3명<br/><br/>
-> 주요 업무 : 머신러닝을 활용한 파킨슨병 환자 진행 예측 및 Streamlit 라이브러리를 이용한 웹개발 구현 코드 작성<br/><br/>
+## ✔ 팀 구성
+- 사용언어 : Python
+- 작업툴 : VS Code / PyCharm / Google Colab / Google BigQuery / QGIS / IBM SPSS Statistics
+- 인원 : 3명
+- 주요 업무 : 머신러닝을 활용한 파킨슨병 환자 진행 예측 및 Streamlit 라이브러리를 이용한 웹개발 구현 코드 작성
+- 기간 : 2023.05.22 ~ 2023.06.23
 
----
+## ✔ 대시보드 주요 기능
+- **HOME**
+  - 대회 목표 및 개요
 
-## Stacks 🐈
+<img src="/file/img/home_img.png" width="700" height="800">
 
-### Environment
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)             
+- **Description**
+  - 파킨슨병 / MDS-UPDRS 점수 설명
+  - 평가지표 설명
+  - 대회에 사용되는 용어 설명
 
-### Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+<img src="/file/img/home_img.png" width="700" height="800">
 
-### Library
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=ScikitLearn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
+- **Data**
+  - 데이터셋 변수 설명
+  - Train / Test 데이터셋 확인
 
-### Communication
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+<img src="/file/img/home_img.png" width="700" height="800">
 
----
+- **EDA**
+  - 방문 월 - Updrs 1~4 점수 평균 산점도/꺽은선그래프 시각화
+  - 결측치 확인을 위한 파이그래프 시각화
+  - 약물복용여부에 따른 updrs 점수 박스플롯 시각화
 
-## 대시보드 주요 기능 ⚙
-- ***홈페이지(Home)***
-    - 대회 목표 및 개요<br/><br/>
-
-- ***설명(Description)***
-    - 파킨슨병 / MDS-UPDRS 점수 설명
-    - 평가지표 설명
-    - 대회에 사용되는 용어 설명<br/><br/>
-
-- ***데이터(Data)***
-    - 데이터셋 변수 설명
-    - Train / Test 데이터셋 확인<br/><br/>
-
-- ***탐색적자료분석(EDA)***
-    - 방문 월 - Updrs 1~4 점수 평균 산점도/꺽은선그래프 시각화
-    - 결측치 확인을 위한 파이그래프 시각화
-    - 약물복용여부에 따른 updrs 점수 박스플롯 시각화<br/><br/>
+<img src="/file/img/home_img.png" width="700" height="800">
 
 - ***통계분석(STAT)***
     - 기초통계 분석 - 두 평균의 비교 (t-test) 설명
     - 귀무/대립 가설 설정 및 결론
     - 약물복용여부(On, Off) 두 그룹 간 평균 비교 박스플롯 시각화
-    - visit_month - updrs 1~4 사이의 회귀분석 및 산점도/회귀선 시각화 (기초통계량 포함)
+    - visit_month - updrs 1~4 사이의 회귀분석 및 산점도/회귀선 시각화 (기초통계분석 포함)
     - 전체 데이터의 컬럼 간 상관관계 분석
-    - 평가지표 간 점수 비교 (updrs 4에 따라서)<br/><br/>
+    - 평가지표 간 점수 비교 (updrs 4 기준)
+
+<img src="/file/img/home_img.png" width="700" height="800">
 
 - ***머신러닝(ML)***
     - CatBoost 모델 및 파라미터 설명
     - 훈련 / 검증 데이터 분리 및 확인
-    - 모델 성능평가 결과 비교<br/><br/>
+    - 모델 성능평가 결과 비교
 
----
-
-## 대시보드 화면 구성 📺
-| 메인 페이지  |  소개 페이지   |
-| :-------------------------------------------: | :------------: |
-|  <img width="329" src="https://user-images.githubusercontent.com/50205887/208036155-a57900f7-c68a-470d-923c-ff3c296ea635.png"/> |  <img width="329" src="https://user-images.githubusercontent.com/50205887/208036645-a76cf400-85bc-4fa2-af72-86d2abf61366.png"/>|  
-| 강좌 소개 페이지   |  강의 영상 페이지   |  
-| <img width="329" src="https://user-images.githubusercontent.com/50205887/208038737-2b32b7d2-25f4-4949-baf5-83b5c02915a3.png"/>   |  <img width="329" src="https://user-images.githubusercontent.com/50205887/208038965-43a6318a-7b05-44bb-97c8-b08b0495fba7.png"/>     |
+<img src="/file/img/home_img.png" width="700" height="800">
 
 ---
 
