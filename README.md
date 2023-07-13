@@ -24,12 +24,11 @@
 
 ## ✔ ERD
 ![screensh](img/erd.png)
-
-## ✔ Flow Chart
-![image](https://github.com/YulminSung/Project_Forestfire/blob/main/file/img/flowchart.png)
 <br/>
 
-
+## ✔ Flow Chart
+![image](https://github.com/YulminSung/Project_Parkinson/blob/main/img/flowchart.png)
+<br/>
 
 ## 팀 구성 👨🏻‍🤝‍👨🏻
 > 개발 기간 : 2023-04-24 ~ 2023-05-17<br/><br/>
