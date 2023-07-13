@@ -111,23 +111,23 @@ catboost==1.7.6
 lightgbm==3.3.5
 ```
 
-- *프로젝트 파일을 다운로드 받습니다.**
+- 프로젝트 파일을 다운로드 받습니다.
 ```bash
 git clone https://github.com/YulminSung/Project_Parkinson.git
 ```
 
-- **프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)**
+- 프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)
 ```bash
 virtualenv venv
 source venv/Scripts/activate
 ```
 
-- **라이브러리를 설치합니다.** 
+- 라이브러리를 설치합니다.
 ```bash
 pip install -r requirements.txt
 ```
 
-- **streamlit 명령어를 실행합니다.** 
+- streamlit 명령어를 실행합니다.
 ```bash
 streamlit run app.py
 ```
