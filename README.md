@@ -80,16 +80,37 @@
 
 ---
 
-## 대회 결과 🏆
+## ✔ 대회 결과 
 - **최종 점수 : 56.0점**
 - **1,788팀 중 450등** (상위 약 25 %)
 
 ---
 
-## 설치 방법
-### Windows
-- **프로젝트 파일을 다운로드 받습니다.** 
+## ✔ 설치 방법
 
+### Windows
+- 버전 확인
+  - VS Code / PyCharm : Python 3.10.9
+  - Kaggle / Google Colab
+  - 라이브러리 : 
+```
+matplotlib==3.7.0
+numpy==1.23.5
+pandas==1.5.3
+pingouin==0.5.3
+plotly==5.9.0
+plotly.express==5.9.0
+scikit-learn==1.2.1
+seaborn==0.12.2
+statsmodels==0.13.5
+streamlit==1.20.0
+streamlit-option-menu==0.3.5
+xgboost==1.7.5
+catboost==1.7.6
+lightgbm==3.3.5
+```
+
+- *프로젝트 파일을 다운로드 받습니다.**
 ```bash
 git clone https://github.com/YulminSung/Project_Parkinson.git
 ```
