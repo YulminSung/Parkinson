@@ -12,14 +12,14 @@
 ---
 
 ## ✔ 목적
-> 1. 파킨슨병 환자의 **임상 데이터**를 사용하여 파킨슨병 환자의 진행을 측정하는<br/><br/> **MDS-UPDRS (통합 파킨슨병 평가척도) 예측**<br/><br/>
+> 1. 파킨슨병 환자의 **임상 데이터**를 사용하여 파킨슨병 환자의 진행을 측정하는 **MDS-UPDRS (통합 파킨슨병 평가척도) 예측**<br/><br/>
 > 2. streamlit을 활용한 **대시보드 웹 개발**
 <br/>
 
 ## ✔ 데이터
-**Kaggle Competition - AMP®-Parkinson's Disease Progression Prediction**에서 제공한 데이터를 이용하였습니다.
+**Kaggle Competition - AMP®-Parkinson's Disease Progression Prediction**에서 제공한 데이터를 이용
 
-[Kaggle_대회_정보](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction)
+[AMP®-Parkinson's Disease Progression Prediction](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction)
 
 ---
 
