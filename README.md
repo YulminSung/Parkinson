@@ -94,17 +94,18 @@
   - Kaggle / Google Colab
   - 라이브러리 : 
 ```
-matplotlib==3.7.0
-numpy==1.23.5
-pandas==1.5.3
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==2.0.1
 pingouin==0.5.3
-plotly==5.9.0
-plotly.express==5.9.0
-scikit-learn==1.2.1
+plotly==5.14.1
+plotly.express==0.4.1
+scikit-learn==1.2.2
 seaborn==0.12.2
 statsmodels==0.13.5
 streamlit==1.20.0
-streamlit-option-menu==0.3.5
+streamlit-option-menu==0.3.2
+utils==1.0.1
 xgboost==1.7.5
 catboost==1.7.6
 lightgbm==3.3.5
