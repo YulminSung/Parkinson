@@ -30,10 +30,10 @@
 
 ## ✔ 팀 구성
 - 사용언어 : Python
-- 작업툴 : VS Code / PyCharm / Google Colab / Google BigQuery / QGIS / IBM SPSS Statistics
+- 작업툴 : PyCharm / Google Colab / Kaggle / Streamlit / Github
 - 인원 : 3명
 - 주요 업무 : 머신러닝을 활용한 파킨슨병 환자 진행 예측 및 Streamlit 라이브러리를 이용한 웹개발 구현 코드 작성
-- 기간 : 2023.05.22 ~ 2023.06.23
+- 기간 : 2023.04.24 ~ 2023.05.17
 
 ## ✔ 대시보드 주요 기능
 - **HOME**
